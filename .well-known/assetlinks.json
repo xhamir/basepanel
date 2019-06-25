@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aiivec.oviindex",
+    "sha256_cert_fingerprints":
+    ["81:FB:D1:86:37:27:C5:9A:26:6E:A3:74:BE:68:18:20:C2:46:65:FF:26:1C:DE:B6:5D:DD:C6:D6:30:F8:1C:C0"]
+  }
+}]
